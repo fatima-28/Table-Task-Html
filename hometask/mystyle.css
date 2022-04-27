@@ -1,0 +1,23 @@
+Table
+    { 
+        border:2px solid black}
+        
+
+
+        th{
+            border:2px solid black;
+        }
+        td{
+            border:1px solid black;
+
+        }
+        .th{
+           background-color: yellow;
+           color: red;
+
+        }
+
+        .td{
+            background-color: rgb(116, 114, 114);
+            color: rgb(0, 15, 150);
+        }
